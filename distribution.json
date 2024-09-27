@@ -214,6 +214,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "io.github.solclient.client:replaymod:1.8.9-2.6.3@jar",
+          "name": "Replay Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14388376,
+            "url": "http://localhost:8080/servers/sol_client-1.8.9/forgemods/required/sol_client.jar",
+            "MD5": "82fa23cd0c1a7d2d0359f8bfc43865cd"
+          }
         }
       ]
     }
