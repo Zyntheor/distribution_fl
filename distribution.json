@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "1.8.99-1.8.9",
-      "name": "1.8.99 (Minecraft 1.8.9)",
-      "description": "1.8.99 Running Minecraft 1.8.9",
+      "id": "1.8.9-1.8.9",
+      "name": "1.8.9 (Minecraft 1.8.9)",
+      "description": "1.8.9 Running Minecraft 1.8.9",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
