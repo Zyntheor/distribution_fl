@@ -13,7 +13,7 @@
       "description": "Nyxile-Lifsteal est un serveur lifsteal",
       "icon": null,
       "version": "",
-      "address": "mc-lifsteal.duckdns.org",
+      "address": "mc-lifsteal.duckdns.org:19000",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
