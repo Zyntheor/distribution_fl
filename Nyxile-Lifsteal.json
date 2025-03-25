@@ -1,0 +1,238 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Nyxile-Lifsteal-1.21.4",
+      "name": "Nyxile-Lifsteal",
+      "description": "Nyxile-Lifsteal est un serveur lifsteal",
+      "icon": null,
+      "version": "",
+      "address": "mc-lifsteal.duckdns.org",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/fabric/indigo-renderer.properties",
+            "MD5": "e6844a7dc9f4152df95c584cfd161717",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "onlyhammersconfig.toml",
+          "name": "onlyhammersconfig.toml",
+          "type": "File",
+          "artifact": {
+            "size": 775,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/onlyhammersconfig.toml",
+            "MD5": "3c0559b6bd8efc0e3f90f4b1d3fec923",
+            "path": "config/onlyhammersconfig.toml"
+          }
+        },
+        {
+          "id": "ukulib.toml",
+          "name": "ukulib.toml",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/ukulib.toml",
+            "MD5": "126015a34cdb563d96a4b22ed4bf5864",
+            "path": "config/ukulib.toml"
+          }
+        },
+        {
+          "id": "ukus-armor-hud.toml",
+          "name": "ukus-armor-hud.toml",
+          "type": "File",
+          "artifact": {
+            "size": 347,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/ukus-armor-hud.toml",
+            "MD5": "bcdc20d107e000acaea78e20a5f7f21a",
+            "path": "config/ukus-armor-hud.toml"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "username-cache.json",
+          "name": "username-cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "config/voicechat/username-cache.json"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4293,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/voicechat/voicechat-client.properties",
+            "MD5": "17ec4816e3076646e57f60a3d0190251",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2502,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/voicechat/voicechat-server.properties",
+            "MD5": "b121cb396b3a784b6698de0743c8d5a9",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voicechat-volumes.properties",
+          "name": "voicechat-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/voicechat/voicechat-volumes.properties",
+            "MD5": "fcb38654c898989fdf9b82707c3ee2f5",
+            "path": "config/voicechat/voicechat-volumes.properties"
+          }
+        },
+        {
+          "id": "weaponmaster_ydm_config.properties",
+          "name": "weaponmaster_ydm_config.properties",
+          "type": "File",
+          "artifact": {
+            "size": 7133,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/config/weaponmaster_ydm_config.properties",
+            "MD5": "fe2ab76e5fe7a041c5ef8fd72e139181",
+            "path": "config/weaponmaster_ydm_config.properties"
+          }
+        },
+        {
+          "id": "fabric-api-0.119.2+1.21.4.jar",
+          "name": "fabric-api-0.119.2+1.21.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2147553,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/fabric-api-0.119.2+1.21.4.jar",
+            "MD5": "a543174245cd21248bfee7a5a826d718",
+            "path": "mods/fabric-api-0.119.2+1.21.4.jar"
+          }
+        },
+        {
+          "id": "lithium-fabric-0.15.0+mc1.21.4.jar",
+          "name": "lithium-fabric-0.15.0+mc1.21.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 779297,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/lithium-fabric-0.15.0+mc1.21.4.jar",
+            "MD5": "6c80d3074505c16240d32b0e3b0ad48b",
+            "path": "mods/lithium-fabric-0.15.0+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "mes-1.4.2-1.21.4.jar",
+          "name": "mes-1.4.2-1.21.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2071183,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/mes-1.4.2-1.21.4.jar",
+            "MD5": "b311c5e09d4ccca60e9c9f611117dff1",
+            "path": "mods/mes-1.4.2-1.21.4.jar"
+          }
+        },
+        {
+          "id": "MouseTweaks-fabric-mc1.21.3-2.27.jar",
+          "name": "MouseTweaks-fabric-mc1.21.3-2.27.jar",
+          "type": "File",
+          "artifact": {
+            "size": 76225,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/MouseTweaks-fabric-mc1.21.3-2.27.jar",
+            "MD5": "8a1268311a2a34bd63fec02e699a5d51",
+            "path": "mods/MouseTweaks-fabric-mc1.21.3-2.27.jar"
+          }
+        },
+        {
+          "id": "OnlyHammers-1.21.4-0.1.jar",
+          "name": "OnlyHammers-1.21.4-0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 53088,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/OnlyHammers-1.21.4-0.1.jar",
+            "MD5": "f3d53bf98fb67537094972c0a087fa5e",
+            "path": "mods/OnlyHammers-1.21.4-0.1.jar"
+          }
+        },
+        {
+          "id": "ukulib-1.6.0+1.21.4.jar",
+          "name": "ukulib-1.6.0+1.21.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 317846,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/ukulib-1.6.0+1.21.4.jar",
+            "MD5": "398c89f7235e65eddc45573d39f30d78",
+            "path": "mods/ukulib-1.6.0+1.21.4.jar"
+          }
+        },
+        {
+          "id": "ukus-armor-hud-0.7.0+mc1.21.4.jar",
+          "name": "ukus-armor-hud-0.7.0+mc1.21.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31399,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/ukus-armor-hud-0.7.0+mc1.21.4.jar",
+            "MD5": "d64885cb93f75f0e36cecffd7d7fe41b",
+            "path": "mods/ukus-armor-hud-0.7.0+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "voicechat-fabric-1.21.4-2.5.28.jar",
+          "name": "voicechat-fabric-1.21.4-2.5.28.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6610838,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/voicechat-fabric-1.21.4-2.5.28.jar",
+            "MD5": "4e1a29ec5117e61c1a5a78162f7d46dc",
+            "path": "mods/voicechat-fabric-1.21.4-2.5.28.jar"
+          }
+        },
+        {
+          "id": "weaponmaster_ydm-fabric-1.21.4-4.2.7.jar",
+          "name": "weaponmaster_ydm-fabric-1.21.4-4.2.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 327926,
+            "url": "https://mc-lifsteal.duckdns.org:19000/servers/Nyxile-Lifsteal-1.21.4/files/mods/weaponmaster_ydm-fabric-1.21.4-4.2.7.jar",
+            "MD5": "47f798fd7601b97e01b144f520702a30",
+            "path": "mods/weaponmaster_ydm-fabric-1.21.4-4.2.7.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
